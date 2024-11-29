@@ -1,7 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export default function ListPage() {
-  return (
-	<div>ListPage</div>
-  )
+  return <div>ListPage2</div>;
 }
